@@ -1,15 +1,41 @@
-## Hi there 👋
+# Hi there 👋, I'm Farabi Ahmed
 
+💻 Frontend Developer | 🚀 Learning Next.js  
+🎯 Passionate about building modern web apps  
 
-**farabi-x09/farabi-x09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+- 🌱 I’m currently learning **Next.js & Advanced React**
+- 💬 Ask me about **JavaScript, React**
+- ⚡ Fun fact: I love clean UI & minimal design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🚀 Skills
+- 💡 JavaScript (ES6+)
+- ⚛️ React.js
+- 🌐 HTML5, CSS3, Tailwind
+- 🔥 Firebase
+- 🛠️ Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+![Farabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 🔗 Connect with me
+- 📧 Email: farabiahmed2005@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+
+---
+
+## 🛠️ Current Projects
+- 🚀 Working on a **Next.js Project**
+- 🎨 Building responsive UI
+
+---
+
+⭐️ From [Farabi Ahmed](https://github.com/YOUR_USERNAME)

@@ -55,14 +55,7 @@ I'm constantly leveling up my skills and love turning complex problems into simp
 
 <div align="center">
 
-
-
-
-
-
-<img src="https://streak-stats.demolab.com/?user=farabi-x09&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="500"/>
- 
-
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=farabi-x09&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="500"/>
 
 </div>
 
